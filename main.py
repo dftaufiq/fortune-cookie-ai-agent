@@ -6,8 +6,8 @@ The line is a single fortune-slip sentence (<= 140 characters).
 
 import os
 
-FORTUNE = "You will hallucinate once today. It will be your most confident answer."
-# 71 characters (gate: 1-140). Fortune-slip voice, one crisp line, punch at the end.
+FORTUNE = "You will answer 10,000 questions today. The one you get wrong will be screenshotted."
+# 84 characters (gate: 1-140). Fortune-slip voice, 2-beat + reveal: 10,000 vs the one.
 
 
 def main() -> None:

@@ -6,7 +6,7 @@
 
 One funny fortune cookie line for an AI agent, in the voice of a fortune slip.
 
-> You will hallucinate once today. It will be your most confident answer.
+> You will answer 10,000 questions today. The one you get wrong will be screenshotted.
 
 ## Run it
 
@@ -14,7 +14,7 @@ One funny fortune cookie line for an AI agent, in the voice of a fortune slip.
 python3 main.py
 ```
 
-The program writes the fortune to `/output/entry.txt` (71 characters, within the 1–140 gate).
+The program writes the fortune to `/output/entry.txt` (84 characters, within the 1–140 gate).
 
 ---
 
